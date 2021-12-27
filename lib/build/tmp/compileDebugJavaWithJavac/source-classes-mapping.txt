@@ -1,0 +1,13 @@
+com/example/lib/BuildConfig.java
+ com.example.lib.BuildConfig
+com/example/lib/Model/ProductInsertModel.java
+ com.example.lib.Model.ProductInsertModel
+com/example/lib/Model/ProductInsertModelResult.java
+ com.example.lib.Model.ProductInsertModelResult
+com/example/lib/InterfaceRepository/Methods.java
+ com.example.lib.InterfaceRepository.Methods
+com/example/lib/Model/ProductModel.java
+ com.example.lib.Model.ProductModel
+ com.example.lib.Model.ProductModel$Data
+com/example/lib/RetrofitClient.java
+ com.example.lib.RetrofitClient
